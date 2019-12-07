@@ -33,6 +33,7 @@ Jamaica, New York
 Ambato, Ecuador
 Binghamton, New York
 South Ozone Park, New York
+Detroit, USA
 Queens, New York, USA
 New York, New York
 Santiago, Dominican Republic
@@ -77,6 +78,7 @@ Ciudad de Guatemala, Guatemala
 Daegu, South Korea
 Ho Chi Minh City, Vietnam
 St. Catharines, Canada
+England, Great Britain
 Dzerzhinsk, Russia
 Streamwood, Untied States of America
 Quincy, Illinois
